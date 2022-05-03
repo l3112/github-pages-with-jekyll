@@ -1,4 +1,4 @@
 ---
-title: "Hi there RUNTCPIP.com"
+title: "My blog post title"
 date: YYYY-MM-DD
 ---
